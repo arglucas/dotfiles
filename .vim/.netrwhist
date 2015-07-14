@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/alex/Documents/Projects/ruby/example/bacon/spec'
+let g:netrw_dirhist_2='/Users/alex/.vagrant.d/boxes/chef-VAGRANTSLASH-ubuntu-14.04/1.0.0/virtualbox'
+let g:netrw_dirhist_3='/Users/alex/chef-repo/.chef'
+let g:netrw_dirhist_4='/Users/alex/Documents/Projects/bdd/chapter-2/train-timetables/src/main/java/com/bddinaction/chapter2'
+let g:netrw_dirhist_5='/Users/alex/Documents/Projects/playbooks/3-mezzanine'
